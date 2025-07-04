@@ -14,6 +14,5 @@ I'm a Philosophy student diving deep into the world of Computer Science and Math
 **My Learning Journey:**
 
 1.  **Philosophy:** philosophy of language, philosophy of logic, philosophy of mind, classical philosophy, social critical theory,
-#In the future
-2.  **Mathematics:** probability theory more advanced calculus.
-3.  **Computer Science:** computer systems, algorithms and applications, databases, graph theory, Prolog and logic 
+2.  **Mathematics(future):** probability theory more advanced calculus.
+3.  **Computer Science(future):** computer systems, algorithms and applications, databases, graph theory, Prolog and logic 
