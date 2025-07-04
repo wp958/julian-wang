@@ -5,7 +5,7 @@ I'm a Philosophy student diving deep into the world of Computer Science and Math
 
 - 🌱 During Week 1-2, I am currently learning Python language and data structures, linear algebra, and calculus. 
 - 🤔 I am also seeking partners interested in philosophy or teachers who can answer my study questions.
-- 💬 Ask me about ... (Plato's Theory of Forms, or why `git rebase` can be scary)
+- 💬 Ask me about Any of your thoughts on philosophy, life, society, the world, and any questions are of great value
 - 📫 How to reach me: 2903847966@qq.com
 - ⚡ Fun fact: diachronic studies of Marxist theory, and the performance of large language models in addressing logical fallacies
 
